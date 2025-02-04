@@ -1,0 +1,40 @@
+.entry {
+    margin: 1rem;
+    padding: 2rem;
+    border: 0.05rem solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.entry h1, .entry h2, .entry h3, .entry h4, .entry h5, .entry h6 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.entry-date {
+    font-size: 0.8rem;
+    color: #958f8f;
+    margin-bottom: 0.25rem;
+    margin-top: 0.25rem;
+}
+
+.entry p {
+    margin-top: 1rem;
+}
+
+.entry img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
+
+.fuck-you-button{
+    margin-top: 0;
+    padding: 0.5rem;
+
+}
+
+.title {
+    margin-bottom: 0.75rem !important;
+}
